@@ -6,13 +6,14 @@ Here I will post all my academic and personal projects developed during my degre
 # IPCA 👨🏻‍🎓
 
 ## 🎓 Academic Projects
-#### **Bachelor's Degree**: **LESI (BSc in Information Systems Engineering):** 
-* ##### 1st year - C language project.
+### **Bachelor's Degree**: **LESI (BSc in Information Systems Engineering):** 
+* #### 1st year - C language project.
 *  **Data structure projects:**
 * ** [Garage project](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/Data%20structure%20projects/Garage)** 
 
 <br>
 * 2nd year ...
+<br>
 * 3nd year ... 
 <br>
 
