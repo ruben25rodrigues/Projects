@@ -15,6 +15,7 @@ Here I will post all my academic and personal projects developed during my degre
 
 * **Postgraduate** ...
 * **Master´s degree** ...
+<br>
 
 ## 💻 Personal Projects
 * Side projects, tools, and experiments built to learn new technologies.
