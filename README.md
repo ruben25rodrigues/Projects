@@ -13,5 +13,7 @@ Here I will post all my academic and personal projects developed during my degre
 ## 💻 Personal Projects
 * Side projects, tools, and experiments built to learn new technologies.
 
+* Waitting ...
+
 ---
 *Maintained by [Rúben Rafael Rodrigues Andrade](https://github.com/ruben25rodrigues)*
