@@ -1,4 +1,4 @@
-# Projetcts
+# Projects
 
 Here I will post all my academic and personal projects developed during my degree and personal coding journey.
 
